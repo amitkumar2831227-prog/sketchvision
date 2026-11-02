@@ -1,0 +1,16 @@
+[
+ {"id":"b1","level":"beginner","title":"Seeing basic shapes","summary":"Break a subject into circles, boxes and triangles before adding detail.",
+  "steps":["Pick a simple object such as a mug or an egg.","Lightly draw the overall shape with a 2H or HB pencil.","Add one or two construction lines to check proportions.","Refine only after the big shapes feel right."]},
+ {"id":"b2","level":"beginner","title":"Line control and pressure","summary":"Practise even lines, light-to-dark pressure and smooth curves.",
+  "steps":["Draw ten parallel lines at the same pressure.","Repeat while changing pressure from light to firm along each line.","Draw loose circles from the shoulder, not the wrist."]},
+ {"id":"b3","level":"beginner","title":"A simple value scale","summary":"Build five even tones from white paper to dark graphite.",
+  "steps":["Draw a row of five equal boxes.","Leave the first blank and fill the last as dark as you can.","Fill the middle three so each step looks evenly spaced."]},
+ {"id":"i1","level":"intermediate","title":"Loomis head construction","summary":"Use a sphere with side planes, a centre line and a brow line to place the features.",
+  "steps":["Draw a circle for the cranium.","Slice off both sides to create the side planes.","Add the centre line and brow line.","Place the nose line and chin using equal spacing."]},
+ {"id":"i2","level":"intermediate","title":"Facial proportions","summary":"Compare feature spacing using eye-width units.",
+  "steps":["Divide the head into thirds: hairline, brow, nose base, chin.","Check that the space between the eyes is about one eye width.","Compare against your reference, since real faces vary."]},
+ {"id":"a1","level":"advanced","title":"Edge control","summary":"Mix hard, soft and lost edges to suggest form and depth.",
+  "steps":["Choose a still life with strong light.","Keep edges hard where light meets shadow.","Soften or lose edges where forms turn away."]},
+ {"id":"a2","level":"advanced","title":"Layered shading","summary":"Build smooth, deep tones with several light layers.",
+  "steps":["Apply a light even layer with hatching.","Change stroke direction on each layer.","Blend lightly, then restore highlights with a kneaded eraser."]}
+]

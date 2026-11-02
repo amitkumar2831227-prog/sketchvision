@@ -1,0 +1,4 @@
+# Core (installed now)
+Flask>=3.0
+# Added in later modules, listed here so the plan is visible:
+# numpy, opencv-python-headless, mediapipe   (Loomis Converter, Sketch Analyzer)
